@@ -76,8 +76,6 @@ def get_input():
     wsad = wsad.upper()
     return wsad   
 
-# ===========
-
 
 password = ""
 hashed_password = ""
